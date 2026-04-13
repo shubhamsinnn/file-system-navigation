@@ -1,0 +1,29 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment and secrets
+.env
+.streamlit/secrets.toml
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# Debug logs
+debug-*.log
